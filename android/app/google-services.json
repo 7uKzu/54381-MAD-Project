@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853709516496",
+    "project_id": "mad-project-481020",
+    "storage_bucket": "mad-project-481020.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853709516496:android:555e56dd71fe6fdb17b8d5",
+        "android_client_info": {
+          "package_name": "com.example.bloodconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBieWG_tDEyVBtHd_3XD1xADL24n8UUvMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
